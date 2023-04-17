@@ -1,0 +1,4 @@
+node_modules
+mongodb
+credentials.json
+build
